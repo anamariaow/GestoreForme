@@ -1,0 +1,1 @@
+Esercizio con abstract class FormaGeometrica e classi Cerchio e Quadrato, infine classe GestoreForme che ha come field un ArrayList di FormaGeometrica e due metodi per vosualizzare l'elenco delle forme e per calcolare l'area totale delle diverse forme
